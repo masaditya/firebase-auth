@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirebaseAuth</string>
+    <string name="firebase_login">Firebase Login</string>
+    <string name="logout">Logout</string>
+    <string name="login">login with google</string>
+    <!--<string name="default_web_client_id">375618467574-otm1kbg65fcihpaqm5nh905rjbes5v24.apps.googleusercontent.com</string>-->
+</resources>
